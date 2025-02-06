@@ -1,2 +1,2 @@
 # TerpParking
-INST362 User-Centered Design project
+INST362 User-Centered Design Project
